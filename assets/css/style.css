@@ -1,0 +1,64 @@
+
+body{
+  font-family: 'Cabin', sans-serif;
+  background-color: black;
+  color: rgb(221, 208, 208);
+  /*scroll-behavior: smooth; */
+}
+
+/* Barra de Navegacion */
+#BarraNavegacion {
+  position: fixed;
+  width: 100vw;
+  z-index: 1;
+  font-size: 20pt;
+
+}
+
+/* Carrusel*/
+#carrusel{
+  height: 1250px;
+}
+/*Quienes somos */
+#QuienesSomos{
+  padding-top: 50px;
+}
+
+/*Destacados */
+#Destacados{
+  padding-top: 50px;
+}
+
+.card-body {
+  background: rgb(29, 170, 189);
+  font-size: 15pt;
+  height: 200px;
+}
+
+/*Contacto */
+#Contacto{
+  padding-top: 50px;
+  font-size: 14pt;
+}
+
+#contactoEspacio {
+  padding: 10px;
+}
+#Enviar{
+  background: rgb(29, 170, 189);
+}
+
+/*Pie de Pagina */
+#Piepagina{
+  background: rgb(29, 170, 189);
+  height: 125px;
+
+}
+.footer_Letras{
+  font-family: sans-serif;
+  font-size: 25pt;
+}
+
+
+
+
